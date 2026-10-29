@@ -1,6 +1,6 @@
 # 权利边界与素材来源
 
-- 对外作者署名：将白；官方维护账号：1q7713-maker。
+- 对外作者署名：老七头；官方维护账号：1q7713-maker。
 - Windows 版本使用 AI 辅助开发，保留源代码、提交历史、构建输入和校验记录。
 - Go、github.com/lxn/win、golang.org/x/sys 的许可保留于 THIRD_PARTY_NOTICES.txt。
 - assets/avatar.png、assets/AppIcon.ico 及衍生尺寸来自用户提供的卡通头像，未核实授权；不声明其为原创，也不以“免费”视为已取得授权。
